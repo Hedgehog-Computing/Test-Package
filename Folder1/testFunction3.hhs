@@ -1,0 +1,3 @@
+function testFunction3 (x) {
+  return x * x;
+}
