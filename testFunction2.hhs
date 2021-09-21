@@ -1,0 +1,4 @@
+function testFunction2(x){
+   *import Test-Package: testFunction
+   return testFunction(x) - 1
+}
