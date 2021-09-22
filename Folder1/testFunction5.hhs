@@ -1,0 +1,4 @@
+function testFunction5(x){
+   *import Test-Package: Folder1/testFunction4
+   return testFunction4(x) * 2
+}
