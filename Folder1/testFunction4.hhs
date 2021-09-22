@@ -1,4 +1,4 @@
 function testFunction4(x){
-   *import Test-Package: Folder12/testFunction3
+   *import Test-Package: Folder1/testFunction3
    return testFunction3(x) + 10;
 }
